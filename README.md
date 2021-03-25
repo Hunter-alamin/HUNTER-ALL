@@ -20,6 +20,9 @@ $ pip2 install mechanize
 $ pip install requests
 
 
+$ pip2 install tqdm
+
+
 $ pip install mechanize
 
 
