@@ -44,6 +44,7 @@ $ python2 hunter.py
 
 <b>🔰🔰🔰🔰</b> </br> <br>[![Github](https://img.shields.io/badge/Github-Hunterboy_Alamin-dimgray?style=flat-square&logo=github)](https://github.com/DevillHunter)<br> [![Facebook](https://img.shields.io/badge/Facebook-Hunterboy_Alamin-blue?style=flat-square&logo=facebook)](https://www.facebook.com/alaminkhan.60)
 
+<b>🔰🔰🔰🔰<b>
 # SCREENSHOTS
 
 ![](https://d.top4top.io/p_19116nrbq0.jpg)
