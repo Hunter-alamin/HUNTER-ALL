@@ -41,8 +41,9 @@ $ python2 hunter.py
  # (NO NEED)
 # PASSWORD 
  # (NO NEED)
+<h1 align="center"><b>
 
-<b>🔰🔰🔰🔰</b> </br> <br>[![Github](https://img.shields.io/badge/Github-Hunterboy_Alamin-dimgray?style=flat-square&logo=github)](https://github.com/DevillHunter)<br> [![Facebook](https://img.shields.io/badge/Facebook-Hunterboy_Alamin-blue?style=flat-square&logo=facebook)](https://www.facebook.com/alaminkhan.60)
+<b>🔰🔰🔰🔰</b> </br> <br>[![Github](https://img.shields.io/badge/Github-HUNTERBOY_ALAMIN-green?style=flat-square&logo=githublogoColor=blue&labelColor=blue)](https://github.com/DevillHunter)<br> [![Facebook](https://img.shields.io/badge/Facebook-HUNTERBOY_ALAMIN-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/alaminkhan.60)
 
 <b>🔰🔰🔰🔰<b>
 # SCREENSHOTS
